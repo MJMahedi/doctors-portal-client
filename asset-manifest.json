@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/doctors-portal-client/static/css/main.f8fa615e.css",
+    "main.js": "/doctors-portal-client/static/js/main.9cd00bba.js",
+    "static/js/787.e792ca90.chunk.js": "/doctors-portal-client/static/js/787.e792ca90.chunk.js",
+    "static/media/appointment.png": "/doctors-portal-client/static/media/appointment.d0d01a86a1465e3f2562.png",
+    "static/media/review.png": "/doctors-portal-client/static/media/review.3933c45d4f95c5e2e08b.png",
+    "static/media/footer.png": "/doctors-portal-client/static/media/footer.44c30585194ef96c686f.png",
+    "static/media/works3.png": "/doctors-portal-client/static/media/works3.6985f169c3f7f5fa4fe5.png",
+    "static/media/bg.png": "/doctors-portal-client/static/media/bg.33b42bf92e2d9dd33b67.png",
+    "static/media/treatment.png": "/doctors-portal-client/static/media/treatment.4663af1929c734cd3854.png",
+    "static/media/chair.png": "/doctors-portal-client/static/media/chair.3ca333d1fa050f6e6eb4.png",
+    "static/media/works4.png": "/doctors-portal-client/static/media/works4.bd6952bb30909e8e3fcf.png",
+    "static/media/doctor.png": "/doctors-portal-client/static/media/doctor.0a279a5b65e8258865bf.png",
+    "static/media/about-us.jpg": "/doctors-portal-client/static/media/about-us.b0fb185ef19929862b2a.jpg",
+    "static/media/works1.png": "/doctors-portal-client/static/media/works1.235a4371e3e926ff7cfa.png",
+    "static/media/works2.png": "/doctors-portal-client/static/media/works2.a485cb41928c3ca1711a.png",
+    "static/media/phone.svg": "/doctors-portal-client/static/media/phone.0b1c25f70938a97d59d5c7c1796f0b61.svg",
+    "static/media/clock.svg": "/doctors-portal-client/static/media/clock.623246e126ee58a8d90f2460c08c0f6b.svg",
+    "index.html": "/doctors-portal-client/index.html",
+    "static/media/quote.svg": "/doctors-portal-client/static/media/quote.87e2bfcfdd22cf5584bc95a97e0a8433.svg",
+    "static/media/marker.svg": "/doctors-portal-client/static/media/marker.0bdab1635363afd723adbfe035c3358e.svg",
+    "main.f8fa615e.css.map": "/doctors-portal-client/static/css/main.f8fa615e.css.map",
+    "main.9cd00bba.js.map": "/doctors-portal-client/static/js/main.9cd00bba.js.map",
+    "787.e792ca90.chunk.js.map": "/doctors-portal-client/static/js/787.e792ca90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8fa615e.css",
+    "static/js/main.9cd00bba.js"
+  ]
+}
